@@ -1,0 +1,22 @@
+{
+    "Frutas": [
+        [
+            "Acerola",
+            50
+        ],
+        [
+            "Carambola",
+            20
+        ]
+    ],
+    "Legumes": [
+        [
+            "Grelos",
+            20
+        ],
+        [
+            "Beterraba",
+            15
+        ]
+    ]
+}
