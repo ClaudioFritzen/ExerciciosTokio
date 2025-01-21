@@ -1,0 +1,20 @@
+[
+    {
+        "cidade": "Madrid",
+        "descricao": "Puerta del Sol",
+        "longitude": -3.703308,
+        "latitude": 40.416875
+    },
+    {
+        "cidade": "Madrid",
+        "descricao": "Paseo del Prado",
+        "longitude": -3.693363,
+        "latitude": 40.417438
+    },
+    {
+        "cidade": "Madrid",
+        "descricao": "Estación de Atocha",
+        "longitude": -3.691163,
+        "latitude": 40.407015
+    }
+]
